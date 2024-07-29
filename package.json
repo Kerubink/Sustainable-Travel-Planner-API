@@ -1,10 +1,11 @@
 {
-  "name": "sustainable-travel-planner-api",
+  "name": "carbon-offset-api",
   "version": "1.0.0",
-  "description": "A API de Planejamento de Viagens Sustentáveis foi projetada para ajudar os usuários a planejar rotas de viagem ecologicamente corretas.",
+  "description": "A API de Compensação de Emissões de Carbono permite que indivíduos e empresas compensem suas emissões de carbono contribuindo para projetos que reduzem ou capturam CO₂ na atmosfera, como reflorestamento ou tecnologias de captura de carbono.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
